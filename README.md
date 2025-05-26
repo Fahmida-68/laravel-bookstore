@@ -1,4 +1,8 @@
 📚 Bookstore Laravel Project – Functionality
+
+
+
+
 This Laravel-based Bookstore web application provides a simple and user-friendly interface for managing and purchasing books online. Below are the main features and functionalities:
 
 
@@ -7,18 +11,39 @@ https://youtu.be/NBPZvfI-TTk?si=cC5VMogPdSyrAh02
 🚀 Features
 📖 Book Management
 
+
+
+
+
+
+
+
+
 Add, edit, delete, and view books.
 Each book includes title, author, ISBN, price, and stock quantity.
 Supports pagination and search functionality.
+
+
+
+
 👨‍💼 Author Management
 
 Add, update, or remove authors.
 Associate books with authors.
+
+
+
+
 🔎 Advanced Search
 
 Search books by title, author, ISBN.
 Filter books by price range and availability in stock.
+
+
+
 🛠️ Tech Stack
+
+
 Backend: Laravel 10+
 Database: MySQL / MariaDB
 Frontend: Blade templating / Bootstrap / Tailwind CSS (if used)
